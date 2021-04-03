@@ -7,7 +7,9 @@ import {
   IonContent,
   IonGrid,
   IonRow,
-  IonCol
+  IonCol,
+  IonBadge,
+  IonText
 } from '@ionic/react'
 import CardsList from '../components/CardsList'
 import CardDetails from '../components/CardDetails'
@@ -45,13 +47,18 @@ function Home() {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Card.io</IonTitle>
+          <IonTitle color='secondary'>
+            Card.io
+          </IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
         <IonGrid>
           <IonRow>
             <IonCol size={selectedCard ? 'auto' : 12}>
+              <IonBadge color="danger" mode='ios' className='ion-padding ion-margin ion-float-right'>
+              Swipe left to disable a card
+              </IonBadge>
               <CardsList
                 cards={cards}
                 selectedCardId={selectedCardId}
