@@ -8,8 +8,7 @@ import {
   IonGrid,
   IonRow,
   IonCol,
-  IonBadge,
-  IonText
+  IonBadge
 } from '@ionic/react'
 import CardsList from '../components/CardsList'
 import CardDetails from '../components/CardDetails'
