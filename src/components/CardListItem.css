@@ -1,0 +1,41 @@
+.CardListItem {
+  flex: 1;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  border: 1px solid transparent;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,.08);
+  box-shadow: 0px 1px 3px 0px rgba(0,0,0,.12);
+  margin-bottom: 20px;
+}
+
+.CardListItem__titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.CardListItem__title {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.CardListItem__subtitle {
+  margin-top: 6px;
+}
+
+.CardListItem:hover {
+  cursor: pointer;
+  background-color: #F7FFFF;
+}
+
+.CardListItem--selected {
+  border: 1px solid #06B6D4;
+  background-color: #ECFEFF;
+}
+
+.CardListItem--selected:hover {
+  background-color: #ECFEFF;
+}

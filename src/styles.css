@@ -1,0 +1,64 @@
+/*
+
+Colors used:
+
+Grey
+--------
+grey-100: #F9FAFB
+grey-200: #D1D5DB
+grey-300: #6B7280
+grey-400: #111827
+
+Blue
+--------
+blue-100: #ECFEFF
+blue-400: #06B6D4
+
+Green
+--------
+green-100: #D1FAE5
+green-400: #065F46
+
+Yellow
+--------
+yellow-100: #FEF3C7
+yellow-400: #92400E
+
+*/
+
+/* Typography styles */
+
+.headerText {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  color: #111827;
+}
+
+.subheaderText {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6B7280;
+}
+
+.heavyText {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #111827;
+}
+
+.bodyText {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #111827;
+}
+
+.lightText {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #6B7280;
+}
