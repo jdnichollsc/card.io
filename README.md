@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Card.io
+
+Welcome to Card.io, a new finance product that helps consumers keep track of all their different payment cards.
+
+## Instructions
+- https://www.notion.so/Instructions-a5ea366140934755ac70e214267ec602
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
