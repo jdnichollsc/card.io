@@ -3,15 +3,15 @@
     "static/js/0.706b67cc.chunk.js": "/card.io/static/js/0.706b67cc.chunk.js",
     "static/js/0.706b67cc.chunk.js.map": "/card.io/static/js/0.706b67cc.chunk.js.map",
     "main.css": "/card.io/static/css/main.d7dd741c.chunk.css",
-    "main.js": "/card.io/static/js/main.87f2b49d.chunk.js",
-    "main.js.map": "/card.io/static/js/main.87f2b49d.chunk.js.map",
+    "main.js": "/card.io/static/js/main.215afb33.chunk.js",
+    "main.js.map": "/card.io/static/js/main.215afb33.chunk.js.map",
     "polyfills-dom.js": "/card.io/static/js/polyfills-dom.3ee6c6e2.chunk.js",
     "polyfills-dom.js.map": "/card.io/static/js/polyfills-dom.3ee6c6e2.chunk.js.map",
     "runtime-main.js": "/card.io/static/js/runtime-main.d5181b9b.js",
     "runtime-main.js.map": "/card.io/static/js/runtime-main.d5181b9b.js.map",
     "static/css/4.5c58278c.chunk.css": "/card.io/static/css/4.5c58278c.chunk.css",
-    "static/js/4.ea5052ed.chunk.js": "/card.io/static/js/4.ea5052ed.chunk.js",
-    "static/js/4.ea5052ed.chunk.js.map": "/card.io/static/js/4.ea5052ed.chunk.js.map",
+    "static/js/4.2bdd7081.chunk.js": "/card.io/static/js/4.2bdd7081.chunk.js",
+    "static/js/4.2bdd7081.chunk.js.map": "/card.io/static/js/4.2bdd7081.chunk.js.map",
     "static/js/5.5e92dc4a.chunk.js": "/card.io/static/js/5.5e92dc4a.chunk.js",
     "static/js/5.5e92dc4a.chunk.js.map": "/card.io/static/js/5.5e92dc4a.chunk.js.map",
     "static/js/6.384c2ddc.chunk.js": "/card.io/static/js/6.384c2ddc.chunk.js",
@@ -121,15 +121,15 @@
     "index.html": "/card.io/index.html",
     "static/css/4.5c58278c.chunk.css.map": "/card.io/static/css/4.5c58278c.chunk.css.map",
     "static/css/main.d7dd741c.chunk.css.map": "/card.io/static/css/main.d7dd741c.chunk.css.map",
-    "static/js/4.ea5052ed.chunk.js.LICENSE.txt": "/card.io/static/js/4.ea5052ed.chunk.js.LICENSE.txt",
+    "static/js/4.2bdd7081.chunk.js.LICENSE.txt": "/card.io/static/js/4.2bdd7081.chunk.js.LICENSE.txt",
     "static/js/52.4f120c17.chunk.js.LICENSE.txt": "/card.io/static/js/52.4f120c17.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.3ee6c6e2.chunk.js.LICENSE.txt": "/card.io/static/js/polyfills-dom.3ee6c6e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d5181b9b.js",
     "static/css/4.5c58278c.chunk.css",
-    "static/js/4.ea5052ed.chunk.js",
+    "static/js/4.2bdd7081.chunk.js",
     "static/css/main.d7dd741c.chunk.css",
-    "static/js/main.87f2b49d.chunk.js"
+    "static/js/main.215afb33.chunk.js"
   ]
 }
