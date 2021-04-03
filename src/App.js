@@ -4,7 +4,7 @@ import {
   IonApp,
   IonRouterOutlet
 } from '@ionic/react'
-import { IonReactRouter } from '@ionic/react-router'
+import { IonReactHashRouter } from '@ionic/react-router'
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css'
@@ -29,12 +29,12 @@ import Home from './pages/Home'
 const App: React.FC = () => {
   return (
     <IonApp>
-      <IonReactRouter>
+      <IonReactHashRouter>
         <IonRouterOutlet>
-          <Route path="/home" component={Home} exact />
-          <Route path="/" render={() => <Redirect to="/home" />} exact />
+          <Route path='/home' component={Home} exact />
+          <Route path='/' render={() => <Redirect to='/home' />} exact />
         </IonRouterOutlet>
-      </IonReactRouter>
+      </IonReactHashRouter>
     </IonApp>
   )
 }
